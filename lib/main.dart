@@ -24,7 +24,7 @@ class PureMatch extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Pure Match Technical Test',
-      home: const HomeScreen(),      
+      home: const HomeScreen(),
       theme: ThemeData().copyWith(
         colorScheme: ThemeData().colorScheme.copyWith(
           primary: const Color(0xFF96969D),

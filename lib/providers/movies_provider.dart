@@ -36,6 +36,7 @@ class MoviesProvider extends ChangeNotifier {
   }
 
   void getSuggestionsByQuery( String searchTerm ) {
+    debugPrint('jean: getSuggestionsByQuery $searchTerm');
     debouncer.value = '';
     debouncer.onValue = ( value ) async {
       final results = await searchMovie(value); 
@@ -47,6 +48,12 @@ class MoviesProvider extends ChangeNotifier {
     });
 
     Future.delayed(const Duration(milliseconds: 301)).then(( _ ) => timer.cancel());
+  }
+
+  @override
+  void dispose() {
+    _suggestionStringController.close();
+    super.dispose();
   }
 
 }
