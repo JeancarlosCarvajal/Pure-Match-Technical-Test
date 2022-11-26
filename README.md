@@ -33,7 +33,7 @@ Application built in Flutter using the Provider state management and the [TheMov
 
 **Step 0:**
 
-Create a file named: `.env` (must be exact) at the same level as the file`.gitignore` and add your API key [TheMovieDB API](https://www.themoviedb.org/documentation/api) as shown below, no spaces:
+Create a file named: `.env` (must be exact) at the same level as the file`.gitignore` and add your API key [TheMovieDB API](https://www.themoviedb.org/documentation/api) as shown below, no spaces (You could use the existing one):
 
 ```sh
 API_KEY=********Your_API_Key********
@@ -111,4 +111,4 @@ Contribute using [Github Flow](https://guides.github.com/introduction/flow/). Cr
 
 ## :scroll: Licence
 
-[MIT Licence © Jeancarlos Carvajal](https://github.com/JeancarlosCarvajal/Pure-Match-Technical-Test/blob/master/LICENCE.txt)
+[MIT Licence © Jeancarlos Carvajal](https://github.com/JeancarlosCarvajal/Pure-Match-Technical-Test/blob/master/LICENSE.md)
