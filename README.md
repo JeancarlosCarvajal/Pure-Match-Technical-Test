@@ -8,17 +8,17 @@ Application built in Flutter using the Provider state management and the [TheMov
 
 ## :books: Table of Contents
 
-- [versions](#memo-versiones)
-- [dependencies](#package-dependencias)
-- [Facility](#hammer_and_wrench-instalación)
-- [releases](#artificial_satellite-releases)
-- [Appearance](#camera-apariencia)
-- [Use](#rocket-uso) 
-- [Support](#hammer_and_wrench-soporte)
-- [contributions](#memo-contribuciones)
-- [License](#scroll-licencia)
+- [Versions](#memo-versions)
+- [Dependencies](#package-dependencies)
+- [Instalation](#hammer_and_wrench-instalation)
+- [Releases](#artificial_satellite-releases)
+- [Appearance](#camera-appearance)
+- [Use](#rocket-use) 
+- [Support](#hammer_and_wrench-support)
+- [Contributions](#memo-contributions)
+- [License](#scroll-license)
 
-## :memo: Versiones
+## :memo: Versions
 
 *  Flutter version 3.3.4
 *  Aplication version 1.0.0
