@@ -3,6 +3,7 @@ import 'package:provider/provider.dart';
 import 'dart:math' as math;
 
 import '../models/movie.dart';
+
 import '../providers/movies_provider.dart';
 
 

@@ -1,7 +1,3 @@
-// To parse this JSON data, do
-//
-//     final searchResponse = searchResponseFromMap(jsonString);
-
 import 'dart:convert';
 
 import 'movie.dart';

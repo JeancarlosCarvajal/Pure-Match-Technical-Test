@@ -1,7 +1,3 @@
-// To parse this JSON data, do
-//
-//     final creditsResponse = creditsResponseFromMap(jsonString);
-
 import 'dart:convert';
 
 class CreditsResponse {
